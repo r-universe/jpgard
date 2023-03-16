@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "auctestr"]
+	path = auctestr
+	url = https://github.com/jpgard/auctestr
+	shallow = true
+	registered = true
